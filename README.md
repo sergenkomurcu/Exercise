@@ -1,2 +1,3 @@
-# MineSw
-c# mine project
+# exercise project
+c# try
+
